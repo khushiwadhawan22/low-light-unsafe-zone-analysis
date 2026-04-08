@@ -137,8 +137,8 @@ It also includes a basic CNN as the deep learning component.
 ## Author
 
 **Khushi Wadhawan**
-B.Tech CSE
-Digital Image Processing Project
+* B.Tech CSE
+* Digital Image Processing Project
 
 ## License
 
